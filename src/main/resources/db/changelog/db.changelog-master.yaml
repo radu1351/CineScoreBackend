@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/movie/001-create-movie.sql
+
+  - include:
+      file: db/changelog/movie/002-add-description-column.sql

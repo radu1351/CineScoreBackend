@@ -1,4 +1,4 @@
-package cegedim.cinescore;
+package ro.cegedim.cinescore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
